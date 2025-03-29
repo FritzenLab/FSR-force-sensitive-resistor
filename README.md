@@ -1,0 +1,2 @@
+# FSR-force-sensitive-resistor
+ 
